@@ -1,2 +1,2 @@
 # ddos-detection
-A model to detect DDos attacks in sdn environment using unsupervised learning and puzzle based mechanism
+A model to detect DDoS attacks in sdn environment using unsupervised learning and puzzle based mechanism
